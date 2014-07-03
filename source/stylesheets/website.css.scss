@@ -1,0 +1,25 @@
+body{
+  padding-left: 20px;
+}
+
+h1{
+  font-family: HelveticaNeue-Light;
+}
+
+ul{
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  li{
+    padding: 5px;
+    border-bottom: 1px solid #fafafa;
+    strong{
+      padding-right: 0.5em;
+      color: rgb(136, 153, 166);
+    }
+  }
+}
+
+.three-quarters{
+  margin: 100px;
+}
