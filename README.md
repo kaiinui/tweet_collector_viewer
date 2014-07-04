@@ -10,3 +10,7 @@ botがたくさんtweetしてフォロワーを集めようとしている奮闘
 http://tweetcollectorviewer.s3-website-ap-northeast-1.amazonaws.com/
 
 ![](https://raw.githubusercontent.com/kaiinui/tweet_collector_viewer/master/SS.png)
+
+###TweetCollector?
+
+Codes are available at https://github.com/kaiinui/tweet_collector
